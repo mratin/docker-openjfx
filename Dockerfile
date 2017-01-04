@@ -1,4 +1,4 @@
-FROM ubuntu:vivid
+FROM ubuntu:16.04
 # Default to UTF-8 file.encoding
 #
 # For CA_CERTIFICATES_JAVA_VERSION, see https://bugs.debian.org/775775
